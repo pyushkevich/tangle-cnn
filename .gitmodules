@@ -1,0 +1,6 @@
+[submodule "convcrf"]
+	path = convcrf
+	url = https://github.com/MarvinTeichmann/ConvCRF.git
+[submodule "wildcat.pytorch"]
+	path = wildcat.pytorch
+	url = https://github.com/durandtibo/wildcat.pytorch.git
